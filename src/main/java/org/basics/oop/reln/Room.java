@@ -1,4 +1,4 @@
-package org.ph;
+package org.basics.oop.reln;
 
 public abstract class Room {
 

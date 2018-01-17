@@ -1,6 +1,6 @@
-package org.ph.rs;
+package org.basics.oop.acc.other;
 
-import org.ph.DummyRoom;
+import org.basics.oop.acc.DummyRoom;
 
 public class PhDummyRoom extends DummyRoom {
 
@@ -12,7 +12,6 @@ public class PhDummyRoom extends DummyRoom {
 
     public static void main(String[] args) {
         // Cannot access through packages
-
         /*DummyRoom confRoom = new DummyRoom();
         System.out.println("PhDummyRoom Loc:" + confRoom.location);*/
 

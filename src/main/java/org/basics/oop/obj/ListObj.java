@@ -1,14 +1,9 @@
-package org.basics.oop;
+package org.basics.oop.obj;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
-//abstract class Ab {
-//    String
-//}
-
-public class Try {
+public class ListObj {
     public static void main(String[] args) {
 
         int[] intList = new int[20];

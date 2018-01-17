@@ -1,4 +1,6 @@
-package org.ph.rs;
+package org.basics.oop.reln;
+
+import org.basics.oop.reln.ConferenceRoom;
 
 public class App {
     public static void main(String[] args) {

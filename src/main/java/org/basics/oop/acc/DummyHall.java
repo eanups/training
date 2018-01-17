@@ -1,4 +1,4 @@
-package org.ph;
+package org.basics.oop.acc;
 
 public class DummyHall {
 

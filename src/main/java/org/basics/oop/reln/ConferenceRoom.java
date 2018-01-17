@@ -1,6 +1,6 @@
-package org.ph.rs;
+package org.basics.oop.reln;
 
-import org.ph.Room;
+import org.basics.oop.reln.Room;
 
 public class ConferenceRoom extends Room {
 

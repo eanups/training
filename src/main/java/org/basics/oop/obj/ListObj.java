@@ -25,5 +25,6 @@ public class ListObj {
         List<Integer> intL = new ArrayList<Integer>();
         intL.add(444);
         System.out.println(intL);
+
     }
 }

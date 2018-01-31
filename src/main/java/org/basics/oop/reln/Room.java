@@ -2,7 +2,7 @@ package org.basics.oop.reln;
 
 public abstract class Room {
 
-    String name = "Abstracto";
+    final String name = "Abstracto";
 
     // specific behavior
     public abstract void showCapacity();
@@ -21,3 +21,4 @@ public abstract class Room {
         System.out.println("Lighting the room!");
     }
 }
+
